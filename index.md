@@ -20,20 +20,20 @@ I am an Research Associate of Operations Management at Tongji University. My pri
 
 **Manufacturing servitization and bullwhip effect.** _Management Science, Reject and resubmit,_ with Niu, Y., Wu, Jing., and Jiang Z
 
-**Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Submited to Journal of Operations Management_ with Zhao, X., Huo, B.
+**Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Submited to Journal of Operations Management,_ with Zhao, X., Huo, B.
 
-**Remote learning and educational inequality** _with Zhanzhi Zheng and Ruomeng Cui_
+**Remote learning and educational inequality.** with Zhanzhi Zheng and Ruomeng Cui
 
-**The environmental impact of sharing economies: evidence from dockless bike entry.** _Liu, Q., Qiu，L., Huo, B._
+**The environmental impact of sharing economies: evidence from dockless bike entry.** with Liu, Q., Qiu，L., Huo, B.
 
-**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** _Hu M., Qiu，L., Jin, Y._
+**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** with Hu M., Qiu，L., Jin, Y.
 
 
 ### Other Publication
 
-**Patterns of IT use: the impact on green supply chain management and firm performance. Industrial Management & Data Systems** _Jiang, S., Han, Z., Huo, B. 2020._
+**Patterns of IT use: the impact on green supply chain management and firm performance. Industrial Management & Data Systems** with Han, Z., Huo, B. 2020.
 
-**Does corporate social responsibility conduce to the mitigation of liability of newness? Evidence from China. Small Business Economics.** _Yan Z., Jiang, S., Wei, J. 2021._
+**Does corporate social responsibility conduce to the mitigation of liability of newness? Evidence from China. Small Business Economics.** Yan Z., Wei, J. 2021.
 
 
 
