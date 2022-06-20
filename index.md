@@ -2,7 +2,18 @@
 
 I can use the [editor on GitHub](https://github.com/ShenyangJiang0505/ShenyangJiang0505.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+Assistant Professor of Operations Management, New York University Shanghai
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### About Me
+I am an Assistant Professor of Operations Management at New York University Shanghai.
+
+My primary research interests lie in the field of marketplace analytics. In my recent work, I analyze the operations and economics of various digital platforms using both data analytic and mathematical modeling tools. I am also interested in developing data-driven methods for analysis of online markets. My research has appeared in leading academic journals, and has been recognized with multiple awards.
+
+I obtained my Ph.D. degree from the Operations, Information and Decisions Department of The Wharton School, under supervision of Professors Senthil Veeraraghavan, Ken Moon and Sergei Savin.
+
+[Work with me!] I am actively looking for Research Assistants and prospective student coauthors (on-campus or remote). Students with a strong quantitative background and/or considering applying to business Ph.D. programs are particularly welcome. You will get: (1) solid research training, (2) opportunities to work and build connections with experts in the field.
 
 ### Markdown
 
