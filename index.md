@@ -1,5 +1,7 @@
 ## Welcome to Shenyang's Homepage
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 Research Associate of Operations Management, Tongji University.
 My Email: Shenyangjiang@tongji.edu.cn 
 
