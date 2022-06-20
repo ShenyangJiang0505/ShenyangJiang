@@ -1,19 +1,39 @@
 ## Welcome to Shenyang's Homepage
 
-I can use the [editor on GitHub](https://github.com/ShenyangJiang0505/ShenyangJiang0505.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Assistant Professor of Operations Management, New York University Shanghai
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Research Associate of Operations Management, Tongji University.
+My Email: Shenyangjiang@tongji.edu.cn 
 
 ### About Me
-I am an Assistant Professor of Operations Management at New York University Shanghai.
+I am an Research Associate of Operations Management at Tongji University. My primary research interests lie in the field of supply chain and operations management. I obtained my Ph.D. degree from School of Management, Zhejiang University.
 
-My primary research interests lie in the field of marketplace analytics. In my recent work, I analyze the operations and economics of various digital platforms using both data analytic and mathematical modeling tools. I am also interested in developing data-driven methods for analysis of online markets. My research has appeared in leading academic journals, and has been recognized with multiple awards.
+### Research
 
-I obtained my Ph.D. degree from the Operations, Information and Decisions Department of The Wharton School, under supervision of Professors Senthil Veeraraghavan, Ken Moon and Sergei Savin.
+**Opportunities or constraints? A network embeddedness perspective on the role of supply chain concentration during the pandemic.** _Journal of Operations Management, minor revision,_ Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B.
 
-[Work with me!] I am actively looking for Research Assistants and prospective student coauthors (on-campus or remote). Students with a strong quantitative background and/or considering applying to business Ph.D. programs are particularly welcome. You will get: (1) solid research training, (2) opportunities to work and build connections with experts in the field.
+**Protection or production: how OHS 18001 impacts production repurposing in Covid-19?** _Production and Operations Management, third round major revision,_ with Ye, Y., Huo, B.
+
+**Vendor selection in the wake of data breach: a longitudinal study.** _Journal of Operations Management, Major revision,_ with Wang, Q., Ngai, E., Huo, B.
+
+**It is never too late to mend: the impact of data breach on IT investment.** _Production and Operations Management, Reject and resubmit,_ with Wang, Q., Jin, Y., Peng, C.H.
+
+**Manufacturing servitization and bullwhip effect.** _Management Science, Reject and resubmit,_ with Niu, Y., Wu, Jing., and Jiang Z
+
+**Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Submited to Journal of Operations Management_ with Zhao, X., Huo, B.
+
+**Remote learning and educational inequality** _with Zhanzhi Zheng and Ruomeng Cui_
+
+**The environmental impact of sharing economies: evidence from dockless bike entry.** _Liu, Q., Qiu，L., Huo, B._
+
+**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** _Hu M., Qiu，L., Jin, Y._
+
+
+### Other Publication
+
+**Patterns of IT use: the impact on green supply chain management and firm performance. Industrial Management & Data Systems** _Jiang, S., Han, Z., Huo, B. 2020._
+
+**Does corporate social responsibility conduce to the mitigation of liability of newness? Evidence from China. Small Business Economics.** _Yan Z., Jiang, S., Wei, J. 2021._
+
+
 
 ### Markdown
 
