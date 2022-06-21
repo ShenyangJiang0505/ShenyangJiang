@@ -16,9 +16,9 @@ I am an Research Associate of Operations Management at Tongji University. My pri
 
 **Vendor selection in the wake of data breach: a longitudinal study.** _Journal of Operations Management, Major revision,_ with Wang, Q., Ngai, E., Huo, B.
 
-**It is never too late to mend: the impact of data breach on IT investment.** _Production and Operations Management, Reject and resubmit,_ with Wang, Q., Jin, Y., Peng, C.H.
+**It is never too late to mend: the impact of data breach on IT investment.** _Production and Operations Management, R&R,_ with Wang, Q., Jin, Y., Peng, C.H.
 
-**Manufacturing servitization and bullwhip effect.** _Management Science, Reject and resubmit,_ with Niu, Y., Wu, Jing., and Jiang Z
+**Manufacturing servitization and bullwhip effect.** _Management Science, R&R,_ with Niu, Y., Wu, Jing., and Jiang Z
 
 **Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Submited to Journal of Operations Management,_ with Zhao, X., Huo, B.
 
