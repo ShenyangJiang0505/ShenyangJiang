@@ -22,11 +22,11 @@ I am an Research Associate of Operations Management at Tongji University. My pri
 
 **Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Submited to Journal of Operations Management,_ with Zhao, X., Huo, B.
 
-**Remote learning and educational inequality.** with Zhanzhi Zheng and Ruomeng Cui
+**Remote learning and educational inequality.** under review at _Management Science,_ with Zhanzhi Zheng and Ruomeng Cui
 
-**The environmental impact of sharing economies: evidence from dockless bike entry.** with Liu, Q., Qiu，L., Huo, B.
+**The environmental impact of sharing economies: evidence from dockless bike entry.** under review at _Management Science,_ with Liu, Q., Qiu，L., Huo, B.
 
-**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** with Hu M., Qiu，L., Jin, Y.
+**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** under review at _Management Science,_ with Hu M., Qiu，L., Jin, Y.
 
 
 ### Other Publication
