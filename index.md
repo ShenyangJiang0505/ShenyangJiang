@@ -7,7 +7,7 @@ Assistant Professor of Operations Management, at Tongji University.
 My Email: Shenyangjiang@tongji.edu.cn 
 
 ### About Me
-I am an Assistant Professor of Operations Management at Tongji University. My primary research interests lie in the field of supply chain and operations management. I obtained my Ph.D. degree from School of Management, Zhejiang University in 2021.
+I am an Assistant Professor of Operations Management at Tongji University. My primary research interests lie in the field of supply chain and operations management. As an empiricist, I am passionate in applying and developing data science tools to solve novel challenges in business. I obtained my Ph.D. degree from School of Management, Zhejiang University in 2021.
 
 ### Research
 
