@@ -1,8 +1,6 @@
 ## Welcome to Shenyang's Homepage
 
-![图片](https://user-images.githubusercontent.com/106462349/210160681-06b07a8e-5d54-4924-a76b-bfcbb7327b8e.png) {:height="100" width="100"}
-
-<img style="50px;height:50px" src="[https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png?v8](https://user-images.githubusercontent.com/106462349/210160681-06b07a8e-5d54-4924-a76b-bfcbb7327b8e.png)"  alt="真棒" align=center />
+![图片:height="100" width="100"](https://user-images.githubusercontent.com/106462349/210160681-06b07a8e-5d54-4924-a76b-bfcbb7327b8e.png) 
 
 
 Research Associate of Operations Management, Tongji University.
@@ -39,6 +37,3 @@ I am an Research Associate of Operations Management at Tongji University. My pri
 **Does corporate social responsibility conduce to the mitigation of liability of newness? Evidence from China. Small Business Economics.** Yan Z., Wei, J. 2021.
 
 
-### Support or Contact
-
-Having trouble with Pages? please contact shenyangjiang@tongji.edu.cn. Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
