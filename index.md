@@ -2,6 +2,9 @@
 
 ![图片](https://user-images.githubusercontent.com/106462349/210160681-06b07a8e-5d54-4924-a76b-bfcbb7327b8e.png) {:height="100" width="100"}
 
+<img style="50px;height:50px" src="[https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png?v8](https://user-images.githubusercontent.com/106462349/210160681-06b07a8e-5d54-4924-a76b-bfcbb7327b8e.png)"  alt="真棒" align=center />
+
+
 Research Associate of Operations Management, Tongji University.
 My Email: Shenyangjiang@tongji.edu.cn 
 
