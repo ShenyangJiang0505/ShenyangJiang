@@ -11,7 +11,7 @@ I am an Assistant Professor of Operations Management at Tongji University. My pr
 
 ### Research
 
-**Opportunities or constraints? A network embeddedness perspective on the role of supply chain concentration during the pandemic.** _Journal of Operations Management,_ Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B.
+**Opportunities or constraints? A network embeddedness perspective on the role of supply chain concentration during the pandemic.** _Journal of Operations Management,_ Forthcoming, Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B.
 
 **Protection or production: how OHS 18001 impacts production repurposing in Covid-19?** _Production and Operations Management, minor revision,_ with Ye, Y., Huo, B.
 
