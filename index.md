@@ -1,6 +1,7 @@
 ## Welcome to Shenyang's Homepage
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![图片](https://user-images.githubusercontent.com/106462349/210160681-06b07a8e-5d54-4924-a76b-bfcbb7327b8e.png)
+
 
 Research Associate of Operations Management, Tongji University.
 My Email: Shenyangjiang@tongji.edu.cn 
@@ -10,17 +11,17 @@ I am an Research Associate of Operations Management at Tongji University. My pri
 
 ### Research
 
-**Opportunities or constraints? A network embeddedness perspective on the role of supply chain concentration during the pandemic.** _Journal of Operations Management, minor revision,_ Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B.
+**Opportunities or constraints? A network embeddedness perspective on the role of supply chain concentration during the pandemic.** _Journal of Operations Management, _ Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B._
 
-**Protection or production: how OHS 18001 impacts production repurposing in Covid-19?** _Production and Operations Management, third round major revision,_ with Ye, Y., Huo, B.
+**Protection or production: how OHS 18001 impacts production repurposing in Covid-19?** _Production and Operations Management, minor revision,_ with Ye, Y., Huo, B.
 
 **Vendor selection in the wake of data breach: a longitudinal study.** _Journal of Operations Management, Major revision,_ with Wang, Q., Ngai, E., Huo, B.
+
+**Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Manufacturing & Service Operations Management, Major revision,_ with Zhao, X., Huo, B.
 
 **It is never too late to mend: the impact of data breach on IT investment.** _Production and Operations Management, R&R,_ with Wang, Q., Jin, Y., Peng, C.H.
 
 **Manufacturing servitization and bullwhip effect.** _Management Science, R&R,_ with Niu, Y., Wu, Jing., and Jiang Z
-
-**Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Submited to Journal of Operations Management,_ with Zhao, X., Huo, B.
 
 **Remote learning and educational inequality.** under review at _Management Science,_ with Zhanzhi Zheng and Ruomeng Cui
 
@@ -35,15 +36,6 @@ I am an Research Associate of Operations Management at Tongji University. My pri
 
 **Does corporate social responsibility conduce to the mitigation of liability of newness? Evidence from China. Small Business Economics.** Yan Z., Wei, J. 2021.
 
-
-
-### Markdown
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShenyangJiang0505/ShenyangJiang0505.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
