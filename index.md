@@ -1,7 +1,6 @@
 ## Welcome to Shenyang's Homepage
 
-![图片](https://user-images.githubusercontent.com/106462349/210160681-06b07a8e-5d54-4924-a76b-bfcbb7327b8e.png)
-
+![图片](https://user-images.githubusercontent.com/106462349/210160681-06b07a8e-5d54-4924-a76b-bfcbb7327b8e.png) {:height="100" width="100"}
 
 Research Associate of Operations Management, Tongji University.
 My Email: Shenyangjiang@tongji.edu.cn 
@@ -11,7 +10,7 @@ I am an Research Associate of Operations Management at Tongji University. My pri
 
 ### Research
 
-**Opportunities or constraints? A network embeddedness perspective on the role of supply chain concentration during the pandemic.** _Journal of Operations Management, _ Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B._
+**Opportunities or constraints? A network embeddedness perspective on the role of supply chain concentration during the pandemic.** _Journal of Operations Management,_ Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B.
 
 **Protection or production: how OHS 18001 impacts production repurposing in Covid-19?** _Production and Operations Management, minor revision,_ with Ye, Y., Huo, B.
 
