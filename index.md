@@ -23,11 +23,13 @@ I am an Assistant Professor of Operations Management at Tongji University. My pr
 
 **Manufacturing servitization and bullwhip effect.** _Management Science, R&R,_ with Niu, Y., Wu, Jing., and Jiang Z
 
-**Remote learning and educational inequality.** under review at _Management Science,_ with Zhanzhi Zheng and Ruomeng Cui
+**Responsible Service Recovery: Price Discrimination or Service Improvement.** _Production and Operations Management, under review,_ with X Liu., Chewei Liu., J, Duan., L, Kang.
 
-**The environmental impact of sharing economies: evidence from dockless bike entry.** under review at _Management Science,_ with Liu, Q., Qiu，L., Huo, B.
+**Remote learning and educational inequality.** in revision,_ with Zhanzhi Zheng and Ruomeng Cui
 
-**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** under review at _Management Science,_ with Hu M., Qiu，L., Jin, Y.
+**The environmental impact of sharing economies: evidence from dockless bike entry.** in revision,_ with Liu, Q., Qiu，L., Huo, B.
+
+**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** in revision,_ with Hu M., Qiu，L., Jin, Y.
 
 
 ### Other Publication
