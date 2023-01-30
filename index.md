@@ -33,7 +33,6 @@ I am an Assistant Professor of Operations Management at Tongji University. My pr
 
 **The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** in revision,_ with Hu M., Qiu，L., Jin, Y.
 
-
 ### Other Publication
 
 **Patterns of IT use: the impact on green supply chain management and firm performance. Industrial Management & Data Systems** with Han, Z., Huo, B. 2020.
