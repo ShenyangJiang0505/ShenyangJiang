@@ -15,11 +15,13 @@ I am an Assistant Professor of Operations Management at Tongji University. My pr
 
 **Protection or production: how OHS 18001 impacts production repurposing in Covid-19?** _Production and Operations Management, minor revision,_ with Ye, Y., Huo, B.
 
-**Vendor selection in the wake of data breach: a longitudinal study.** _Journal of Operations Management, Major revision,_ with Wang, Q., Ngai, E., Huo, B.
-
 **Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Manufacturing & Service Operations Management, Major revision,_ with Zhao, X., Huo, B.
 
-**It is never too late to mend: the impact of data breach on IT investment.** _Production and Operations Management, R&R,_ with Wang, Q., Jin, Y., Peng, C.H.
+**Public utility obtacles and productivity growth: the moderating effect of national culture** _Journal of Operations Management, Major revision,_ with He,H., Liu, X., Huo, B.
+
+**Vendor selection in the wake of data breach: a longitudinal study.** _Journal of Operations Management,  Reject and Resubmit,_ with Wang, Q., Ngai, E., Huo, B.
+
+**It is never too late to mend: the impact of data breach on IT investment.** _Production and Operations Management, Reject and Resubmit,_ with Wang, Q., Jin, Y., Peng, C.H.
 
 **Manufacturing servitization and bullwhip effect.** _Management Science, R&R,_ with Niu, Y., Wu, Jing., and Jiang Z
 
