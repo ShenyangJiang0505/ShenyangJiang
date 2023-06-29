@@ -13,25 +13,25 @@ I am an Assistant Professor of Operations Management at Tongji University. My pr
 
 **Opportunities or constraints? A network embeddedness perspective on the role of supply chain concentration during the pandemic.** _Journal of Operations Management,_ Forthcoming, Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B.
 
-**Protection or production: how OHS 18001 impacts production repurposing in Covid-19?** _Production and Operations Management, minor revision,_ with Ye, Y., Huo, B.
+**Protection or production: how OHS 18001 impacts production repurposing in Covid-19?** _Production and Operations Management, _ Forthcoming,_ with Ye, Y., Huo, B.
+
+**Manufacturing servitization and bullwhip effect.** _Management Science, Minor revision,_ with Niu, Y., Wu, Jing., and Jiang Z
 
 **Does green supplier make customer greener? the moderating effect of dependence in customer-supplier dyads** _Manufacturing & Service Operations Management, Major revision,_ with Zhao, X., Huo, B.
 
 **Public utility obtacles and productivity growth: the moderating effect of national culture** _Journal of Operations Management, Major revision,_ with He,H., Liu, X., Huo, B.
 
-**Vendor selection in the wake of data breach: a longitudinal study.** _Journal of Operations Management,  Reject and Resubmit,_ with Wang, Q., Ngai, E., Huo, B.
+**Vendor selection in the wake of data breach: a longitudinal study.** _Journal of Operations Management, Reject and Resubmit,_ with Wang, Q., Ngai, E., Huo, B.
+
+**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** _Production and Operations Management, Reject and Resubmit,_ with Hu M., Qiu，L., Jin, Y.
 
 **It is never too late to mend: the impact of data breach on IT investment.** _Production and Operations Management, Reject and Resubmit,_ with Wang, Q., Jin, Y., Peng, C.H.
 
-**Manufacturing servitization and bullwhip effect.** _Management Science, R&R,_ with Niu, Y., Wu, Jing., and Jiang Z
-
-**Responsible Service Recovery: Price Discrimination or Service Improvement.** _Production and Operations Management, under review,_ with X Liu., Chewei Liu., J, Duan., L, Kang.
+**Responsible Service Recovery: Price Discrimination or Service Improvement.** _Production and Operations Management, Reject and Resubmit,_ with X Liu., Chewei Liu., J, Duan., L, Kang.
 
 **Remote learning and educational inequality.** in revision,_ with Zhanzhi Zheng and Ruomeng Cui
 
 **The environmental impact of sharing economies: evidence from dockless bike entry.** in revision,_ with Liu, Q., Qiu，L., Huo, B.
-
-**The impact of appointment system quality and information quality on patients’ no-show behavior: A nature experiment.** in revision,_ with Hu M., Qiu，L., Jin, Y.
 
 ### Other Publication
 
